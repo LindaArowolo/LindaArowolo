@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LindaArowolo
+- 👋 Hi, I’m @Linda
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Basic CSS
 - 💞️ I’m looking to collaborate on web designing
